@@ -3,10 +3,6 @@ package org.acme.code_challenges;
 import org.acme.code_challenges.javatime.JavaTimeCode;
 import org.acme.code_challenges.jodatime.JodaTimeCode;
 
-/**
- * Hello world!
- *
- */
 public class App {
 	public static void main(String[] args) {
 		JavaTimeCode javaTime = new JavaTimeCode();
